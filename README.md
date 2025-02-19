@@ -41,6 +41,13 @@ My vision is to combine creativity with technology to deliver impactful solution
 
 - Developing interactive and visually appealing web applications.
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
 ## 📫 Let's Connect:
 
 - LinkedIn: [linkedin.com/in/atanas-r-vasilev](https://linkedin.com/in/atanas-r-vasilev)
