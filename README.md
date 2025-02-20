@@ -50,3 +50,9 @@ My vision is to combine creativity with technology to deliver impactful solution
 ---
 
 ✨ "I believe perseverance and curiosity lead to success, while creativity makes technology an art."
+
+## 🐍 A Snake Eating my Contributions Graph
+
+<p align="center">
+  <img src="https://github.com/AtanasVasilev1992/AtanasVasilev1992/raw/main/snake.svg" alt="Snake eating my contributions">
+</p>
